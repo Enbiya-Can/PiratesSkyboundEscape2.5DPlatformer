@@ -25,7 +25,8 @@ In this action-packed adventure, you control a fearless pirate navigating across
 
 | Gameplay | Enemy Pirates | Power-Ups |  
 |----------|--------------|----------|  
-| ![Gameplay](path/to/screenshot1.png) | ![Enemies](path/to/screenshot2.png) | ![Power-Ups](path/to/screenshot3.png) |  
+| ![Gameplay](path/to/screenshot1.png) | ![Enemies](path/to/screenshot2.png) | ![Power-Ups](https://github.com/user-attachments/assets/cb5ed39d-61c1-49b9-910b-36e51ca7b371) |  
+
 
 ## 🚀 Installation & Play  
 
