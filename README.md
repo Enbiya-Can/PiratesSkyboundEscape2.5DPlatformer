@@ -31,7 +31,4 @@ In this action-packed adventure, you control a fearless pirate navigating across
 
 ## 🚀 Installation & Play  
 
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/yourusername/pirates-skybound-escape.git
-   cd pirates-skybound-escape
+https://drive.google.com/drive/folders/14fdJ2MT55YI7svxXl0TIzUDLSrEmGo5z?usp=sharing
